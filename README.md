@@ -4,10 +4,10 @@ YourControls_BKSQ_STARSHIP
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
 
 # Made for MSFS2020 and not validated for 2024
-# Thanks to @Tailhook for helping with H EVENt door issue
+Thanks to @Tailhook for helping with H EVENt door issue
 
 # Version 0.3
-# - KNOWN ISSUES in MSFS2020
+  - KNOWN ISSUES in MSFS2020
   - Doesn't work good in "Ready to Fly" Spawning on Runway unless you reset Generators as mentioned below. 
   - Generators require you flip them OFF, On, Reset for them to handle load correctly. A reset may work, but I moved it to OFF>ON>RESET>ON
   - FMS ENTRY OPTIONS
@@ -17,10 +17,10 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
   - BREAKERS ARE NOT SYNCHED
 
 # - FIXES:
- # - 6/28/2025
+  - 6/28/2025
    - Added Door lighting panel (Located near Main Entry) Switches for CABIN, AISLE, ENTRY and DOOR
    - Fixed Door sync issue by ignoring the CabinDoor H EVENT
- # - 6/22/2025
+  - 6/22/2025
    - Fixed STORM LIGHT SWITCH
    - COM AUDIO VOLUME and most switches on Audio panel 1 and 2 are non functional Due to Developer
    - Initial release for Beta testing 6/21/2025
