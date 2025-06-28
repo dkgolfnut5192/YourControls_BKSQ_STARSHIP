@@ -8,13 +8,13 @@ Thanks to @Tailhook for helping with H EVENT door issue
 
 # Version 0.3
 * - KNOWN ISSUES in MSFS2020
-  - Doesn't work good in "Ready to Fly" Spawning on Runway unless you reset Generators as mentioned below. 
-  - Generators require you flip them OFF, On, Reset for them to handle load correctly. A reset may work, but I moved it to OFF>ON>RESET>ON
-  - FMS ENTRY OPTIONS
-   - 1 - FMS CDU entry using the built in CDU #'s and Letters for Route entry is synchronized to the second pilot.
-   - 2 - Keyboard entry (using your keyboard) into the FMS CDU needs to be completed when not connected via YC's and must be entered on both CDU's manually. Otherswise Key strokes are not synched to second pilot except the initial airport. 
-  - Toggle type Momentary switches like AHRS REINIT, FASTSLAVE, GND ICE DEETR TEST, ETC. do not sync based on O EVENT needed
-  - BREAKERS ARE NOT SYNCHED
+- Doesn't work good in "Ready to Fly" Spawning on Runway unless you reset Generators as mentioned below. 
+- Generators require you flip them OFF, On, Reset for them to handle load correctly. A reset may work, but I moved it to OFF>ON>RESET>ON
+- FMS ENTRY OPTIONS
+  - 1 - FMS CDU entry using the built in CDU #'s and Letters for Route entry is synchronized to the second pilot.
+  - 2 - Keyboard entry (using your keyboard) into the FMS CDU needs to be completed when not connected via YC's and must be entered on both CDU's manually. Otherswise Key strokes are not synched to second pilot except the initial airport. 
+- Toggle type Momentary switches like AHRS REINIT, FASTSLAVE, GND ICE DEETR TEST, ETC. do not sync based on O EVENT needed
+- BREAKERS ARE NOT SYNCHED
 
 # - FIXES:
   - 6/28/2025
